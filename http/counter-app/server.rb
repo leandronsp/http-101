@@ -53,5 +53,3 @@ Set-Cookie: counter=#{counter}; path=/; HttpOnly\r
   # fecha socket client
   client.close
 end
-
-socket.close
